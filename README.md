@@ -9,7 +9,7 @@ Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
     introTitle: 'Hey bro!',
-    introDesc: `Dẫu khoảng cách từ I đến U  xa xôi đến 
+    introDesc: `Dẫu khoảng cách từ I đến U  xa xôi đến thế 
      Fuck JKLMNOPQRST
         Mình vẫn vượt muôn vàn chữ cái để chạm tới cậu`,
 
